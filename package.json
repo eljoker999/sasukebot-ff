@@ -42,7 +42,7 @@
 "cfonts": "^3.3.0",
 "chalk": "^5.4.1",
 "url-file-size": "^1.0.5-1",
-"cheerio": "1.0.0-rc.12", 
+"cheerio": "1.1.2", 
 "colors": "1.4.0",
 "express": "^4.18.1",
 "file-type": "^18.0.0",
